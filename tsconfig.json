@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "skipLibCheck": true,
+        "resolveJsonModule": true,
+        "allowJs": true,
+        "esModuleInterop": true,
+        "lib": ["ES2021"]
+    },
+    "exclude": [
+        "node_modules"
+    ],
+}
