@@ -1,4 +1,4 @@
-# Stolen Vehicles Tracker Facebook Express App
+# Stolen Vehicle Facebook Bot
 
 ## Overview
 
@@ -6,7 +6,7 @@ This Express app is designed to sync information about stolen vehicles from the 
 
 ## Configuration
 
-To set up the app, you'll need to fill in the necessary information in the `co`nfig.json` file:
+To set up the app, you'll need to fill in the necessary information in the ``config.json`` file:
 
 ```json
 {
